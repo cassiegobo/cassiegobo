@@ -1,16 +1,35 @@
-## Hi there 👋
+# Cassie Gobo
 
-<!--
-**cassiegobo/cassiegobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Analyst with 7+ years of experience in enterprise Web QA and Localization QA at IBM.
 
-Here are some ideas to get you started:
+Experienced in:
+- UI & Functional Testing
+- Cross-Browser & Responsive Testing
+- Regression Testing
+- Localization Validation
+- Release Readiness & Defect Analysis
+- CMS Validation (AEM & Drupal)
+- Agile & Jira workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently transitioning into QA Automation and learning:
+- Playwright
+- Selenium
+- API Testing (Postman)
+- Git & GitHub
+
+## Current Focus
+Building hands-on QA automation projects focused on:
+- Web UI automation
+- Localization testing
+- API testing
+- Test documentation and workflows
+
+## Tech & Tools
+AEM • Drupal • Jira • Playwright • Selenium • Postman • Git/GitHub
+
+## Open To
+QA Analyst • Web QA • Localization QA • Junior QA Automation
+
+## Links
+- LinkedIn: linkedin.com/in/nandagobo
+- GitHub: github.com/cassiegobo
