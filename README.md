@@ -47,5 +47,7 @@ QA Analyst • Web QA • Localization QA • Junior QA Automation
 ## ୨ৎ links
 
 [linkedin.com/in/nandagobo](https://linkedin.com/in/nandagobo)
+
 [github.com/cassiegobo](https://github.com/cassiegobo)
+
 [credly.com/users/cassie-gobo](https://www.credly.com/users/cassie-gobo)
