@@ -18,7 +18,7 @@ Currently transitioning into modern QA Automation through hands-on learning and 
 
 ---
 
-## ୨ৎ stack
+## ୨ৎ Stack
 
 **QA & Web**  
 AEM • Drupal • Jira • Agile
@@ -28,7 +28,7 @@ Playwright • Selenium • Postman • Git/GitHub
 
 ---
 
-## ୨ৎ background
+## ୨ৎ Background
 
 Globalization QA Analyst @ IBM  
 Globalization Specialist @ IBM
@@ -38,16 +38,12 @@ Technical Degree in Information Technology
 
 ---
 
-## ୨ৎ open to
+## ୨ৎ Open to
 
 QA Analyst • Web QA • Localization QA • Junior QA Automation
 
 ---
 
-## ୨ৎ links
+## ୨ৎ Find me on
 
-[linkedin.com/in/nandagobo](https://linkedin.com/in/nandagobo)
-
-[github.com/cassiegobo](https://github.com/cassiegobo)
-
-[credly.com/users/cassie-gobo](https://www.credly.com/users/cassie-gobo)
+[linkedin.com/in/nandagobo](https://linkedin.com/in/nandagobo) •  [github.com/cassiegobo](https://github.com/cassiegobo) • [credly.com/users/cassie-gobo](https://www.credly.com/users/cassie-gobo)
