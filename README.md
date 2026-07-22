@@ -1,37 +1,50 @@
- <h1 align="center">
+<h1 align="center">
   ୨ৎ Cassie Gobo ୨ৎ
 </h1>
 
 <p align="center">
-  <b style="color:#CCABEC;">Web QA</b>
+  <b>Enterprise Web QA</b>
   •
-  <b style="color:#B0D6D5;">Localization QA</b>
+  <b>AEM</b>
   •
-  <b style="color:#CCABEC;">QA Automation in Progress</b>
+  <b>Localization QA</b>
+  •
+  <b>Test Automation Learning</b>
 </p>
 
 <br>
 
-QA Analyst with 7+ years of experience at IBM working with multilingual web platforms, UI validation, regression testing, cross-browser testing, and localization workflows.
+QA Analyst with 7+ years of experience at IBM specializing in enterprise web quality assurance, multilingual websites, AEM workflows, localization testing and global release validation.
 
-Currently transitioning into modern QA Automation through hands-on learning and practical projects.
+Experienced with functional testing, regression testing, cross-browser validation, CMS validation, accessibility-related checks and defect investigation in Agile environments.
+
+Currently expanding my technical skills in Playwright, API testing and Git workflows while building on a strong foundation in Enterprise Web QA.
 
 ---
 
 ## ୨ৎ Stack
 
 **QA & Web**  
-AEM • Drupal • Jira • Agile
+AEM • Drupal • CMS Validation • Functional Testing • Regression Testing • Jira • Agile
+
+**Accessibility**  
+Accessibility Verification Testing (AVT) • Alt Text Validation • Responsive Testing
 
 **Learning**  
-Playwright • Selenium • Postman • Git/GitHub
+Playwright • Postman • Git/GitHub
+
+**Coursework**  
+Selenium
 
 ---
 
 ## ୨ৎ Background
 
-Globalization QA Analyst @ IBM  
-Globalization Specialist @ IBM
+**Globalization QA Analyst @ IBM**
+
+Enterprise Web QA • Multilingual Websites • Global Release Validation
+
+**Globalization Specialist @ IBM**
 
 Bachelor’s Degree in International Relations  
 Technical Degree in Information Technology
@@ -40,10 +53,10 @@ Technical Degree in Information Technology
 
 ## ୨ৎ Open to
 
-QA Analyst • Web QA • Localization QA • Junior QA Automation
+QA Analyst • Enterprise Web QA • Localization QA • Test Automation
 
 ---
 
 ## ୨ৎ Find me on
 
-[linkedin.com/in/nandagobo](https://linkedin.com/in/nandagobo) •  [github.com/cassiegobo](https://github.com/cassiegobo) • [credly.com/users/cassie-gobo](https://www.credly.com/users/cassie-gobo)
+[linkedin.com/in/nandagobo](https://linkedin.com/in/nandagobo) • [github.com/cassiegobo](https://github.com/cassiegobo) • [credly.com/users/cassie-gobo](https://www.credly.com/users/cassie-gobo)
