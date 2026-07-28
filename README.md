@@ -3,20 +3,14 @@
 </h1>
 
 <p align="center">
-  <b>Enterprise Web QA</b>
-  •
-  <b>AEM</b>
-  •
-  <b>Localization QA</b>
-  •
-  <b>Test Automation Learning</b>
+  <b>Enterprise Web QA • AEM • Localization QA • Release Validation • Test Automation Learning</b>
 </p>
 
 <br>
 
 QA Analyst with 7+ years of experience at IBM specializing in enterprise web quality assurance, multilingual websites, AEM workflows, localization testing and global release validation.
 
-Experienced with functional testing, regression testing, cross-browser validation, CMS validation, accessibility-related checks and defect investigation in Agile environments.
+Experienced with functional testing, regression testing, cross-browser validation, content validation, accessibility-related checks and defect investigation in Agile environments.
 
 Currently expanding my technical skills in Playwright, API testing and Git workflows while building on a strong foundation in Enterprise Web QA.
 
@@ -25,10 +19,10 @@ Currently expanding my technical skills in Playwright, API testing and Git workf
 ## ୨ৎ Stack
 
 **QA & Web**  
-AEM • Drupal • CMS Validation • Functional Testing • Regression Testing • Jira • Agile
+AEM • Drupal • content validation • Functional Testing • Regression Testing • Jira • Agile
 
 **Accessibility**  
-Accessibility Verification Testing (AVT) • Alt Text Validation • Responsive Testing
+Accessibility Verification Testing (AVT) • Accessibility-related Validation • Responsive Testing
 
 **Learning**  
 Playwright • Postman • Git/GitHub
@@ -45,15 +39,14 @@ Selenium
 Enterprise Web QA • Multilingual Websites • Global Release Validation
 
 **Globalization Specialist @ IBM**
-
-Bachelor’s Degree in International Relations  
-Technical Degree in Information Technology
+Bachelor’s Degree in Science and Humanities  @ UFABC
+Bachelor’s Degree in International Relations  @ UFABC
+Technical Degree in Information Technology @ ETEC Lauro Gomes
 
 ---
 
 ## ୨ৎ Open to
-
-QA Analyst • Enterprise Web QA • Localization QA • Test Automation
+QA Analyst • Enterprise Web QA • Localization QA • QA Automationion
 
 ---
 
