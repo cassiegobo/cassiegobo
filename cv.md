@@ -1,16 +1,12 @@
 # Cassie Gobo
 
-Santo André, São Paulo, Brazil
-
-English: Fluent  
-Portuguese: Native
-
-LinkedIn: linkedin.com/in/nandagobo  
-GitHub: github.com/cassiegobo  
+**Santo André, São Paulo, Brazil**
+- LinkedIn: linkedin.com/in/nandagobo
+- GitHub: github.com/cassiegobo
 
 ---
 
-# Professional Summary
+## PROFESSIONAL SUMMARY
 
 Senior Quality Assurance Analyst with 7+ years of experience in Enterprise Web QA, specializing in Globalization (G11N) and Localization (L10N) validation for multilingual digital platforms.
 
@@ -24,140 +20,117 @@ Currently expanding technical capabilities in automation and engineering workflo
 
 ---
 
-# Professional Experience
+## PROFESSIONAL EXPERIENCE
 
-## IBM
+### IBM
 
-### Globalization QA Analyst | Enterprise Web QA
+**Globalization QA Analyst | Enterprise Web QA**
+São Paulo, Brazil | Apr 2020 – Present
 
-**São Paulo, Brazil | Apr 2020 – Present**
+* Performed end-to-end functional, UI, responsive, and localization validation for multilingual enterprise web platforms across multiple international markets.
+* Supported release validation activities and launch readiness for global digital publications, ensuring quality standards before production releases.
+* Validated enterprise CMS components and workflows using Adobe Experience Manager (AEM) and Drupal, checking content rendering, layouts, links, redirects, PDFs, and localized experiences.
+* Managed defect reporting and tracking in Jira, investigating and documenting functionality, usability, layout, and localization issues.
+* Collaborated with developers, project managers, and international stakeholders during defect analysis and release cycles.
+* Contributed to workflow improvements that helped reduce global deployment cycles from 14 to 8 days.
 
-- Performed end-to-end functional, UI, responsive, and localization validation for multilingual enterprise web platforms across multiple international markets.
-- Supported release validation activities and launch readiness for global digital publications, ensuring quality standards before production releases.
-- Validated enterprise CMS components and workflows using Adobe Experience Manager (AEM) and Drupal, checking content rendering, layouts, links, redirects, PDFs, and localized experiences.
-- Managed defect reporting and tracking in Jira, investigating and documenting functionality, usability, layout, and localization issues.
-- Collaborated with developers, project managers, and international stakeholders during defect analysis and release cycles.
-- Contributed to workflow improvements that helped reduce global deployment cycles from 14 to 8 days.
+**Globalization Specialist**
+São Paulo, Brazil | Apr 2019 – Apr 2020
 
----
+* Supported localization and publishing workflows for global IBM web pages.
+* Validated page structure, content consistency, and multilingual delivery processes.
+* Collaborated with international teams to support global publication timelines.
+* Worked with enterprise tools and Agile processes.
 
-### Globalization Specialist
+### Additional Experience
 
-**São Paulo, Brazil | Apr 2019 – Apr 2020**
+**Engefood Equipamentos e Representações LTDA**
+*Marketing Intern*
+Santo André, Brazil | Apr 2015 – Nov 2015
 
-- Supported localization and publishing workflows for global IBM web pages.
-- Validated page structure, content consistency, and multilingual delivery processes.
-- Collaborated with international teams to support global publication timelines.
-- Worked with enterprise tools and Agile processes.
+* Supported website updates, digital content activities, and communication materials.
+* Created marketing assets and supported customer communication initiatives.
+* Translated technical materials and assisted with digital campaigns.
 
----
+**TIM Brasil**
+*Customer Relationship Consultant I*
+Santo André, Brazil | Sep 2014 – Mar 2015
 
-# Additional Experience
+* Provided customer support and issue resolution.
+* Assisted with technical and administrative troubleshooting.
+* Supported customer experience operations.
 
-## Engefood Equipamentos e Representações LTDA
+**Ponto Exe Soluções**
+*IT Intern*
+Santo André, Brazil | Jun 2014 – Aug 2014
 
-### Marketing Intern
-
-**Santo André, Brazil | Apr 2015 – Nov 2015**
-
-- Supported website updates, digital content activities, and communication materials.
-- Created marketing assets and supported customer communication initiatives.
-- Translated technical materials and assisted with digital campaigns.
-
----
-
-## TIM Brasil
-
-### Customer Relationship Consultant I
-
-**Santo André, Brazil | Sep 2014 – Mar 2015**
-
-- Provided customer support and issue resolution.
-- Assisted with technical and administrative troubleshooting.
-- Supported customer experience operations.
+* Provided software and hardware support.
+* Assisted with technical troubleshooting activities.
 
 ---
 
-## Ponto Exe Soluções
+## TECHNICAL SKILLS
 
-### IT Intern
+**QA & Testing**
 
-**Santo André, Brazil | Jun 2014 – Aug 2014**
+* Manual Testing
+* Functional Testing
+* Regression Testing
+* UI Testing
+* Responsive Testing
+* Cross-Browser Testing
+* Localization QA
+* Globalization QA
+* Release Validation
+* Defect Analysis
 
-- Provided software and hardware support.
-- Assisted with technical troubleshooting activities.
+**Enterprise Platforms**
+
+* Adobe Experience Manager (AEM)
+* Drupal
+* CMS Validation
+
+**Tools & Methodologies**
+
+* Jira
+* Agile
+* Scrum
+
+**Automation & Technical Skills (Learning)**
+
+* Playwright
+* Selenium
+* Postman
+* Git/GitHub
 
 ---
 
-# Education
+## EDUCATION
 
-## Universidade Federal do ABC (UFABC)
-
-**Bachelor's Degree in International Relations**  
+**Universidade Federal do ABC (UFABC)**
+Bachelor's Degree in International Relations *(In Progress)*
 2017 – Present
 
-**Bachelor of Science and Humanities (BC&H)**  
+Bachelor of Science and Humanities (BC&H) *(In Progress)*
 2017 – Present
 
----
-
-## Universidade Municipal de São Caetano do Sul (USCS)
-
-**Communication / Advertising and Marketing Studies**  
+**Universidade Municipal de São Caetano do Sul (USCS)**
+Communication / Advertising and Marketing Studies
 2014 – 2016
 
----
-
-## Senac São Paulo
-
-**Web Design — HTML5 & CSS3**  
+**Senac São Paulo**
+Web Design — HTML5 & CSS3
 2016
 
----
-
-## ETEC Lauro Gomes
-
-**Technical Degree in Information Technology**  
+**ETEC Lauro Gomes**
+Technical Degree in Information Technology
 2014
 
+## IDIOMS 
+
+English: Fluent | Portuguese: Native
 ---
 
-# Technical Skills
-
-## QA & Testing
-
-Manual Testing  
-Functional Testing  
-Regression Testing  
-UI Testing  
-Responsive Testing  
-Cross-Browser Testing  
-Localization QA  
-Globalization QA  
-Release Validation  
-Defect Analysis  
-
-## Enterprise Platforms
-
-Adobe Experience Manager (AEM)  
-Drupal  
-CMS Validation  
-
-## Tools & Methodologies
-
-Jira  
-Agile  
-Scrum  
-
-## Automation & Technical Skills (Learning)
-
-Playwright  
-Selenium  
-Postman  
-Git/GitHub  
-
----
-
-# Portfolio
+## PORTFOLIO
 
 QA Notes repository focused on enterprise QA documentation, test design, release validation workflows, and automation-ready testing practices.
