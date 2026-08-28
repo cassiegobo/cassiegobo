@@ -18,17 +18,14 @@ Currently expanding my technical skills in Playwright, API testing and Git workf
 
 ## ୨ৎ Stack
 
-**QA & Web**  
-AEM • Drupal • content validation • Functional Testing • Regression Testing • Jira • Agile
+**QA & Process**
+Enterprise Web QA • Functional Testing • Regression Testing • Content Validation • AEM • Drupal • Jira • Agile
 
-**Accessibility**  
-Accessibility Verification Testing (AVT) • Accessibility-related Validation • Responsive Testing
+**Languages & Tools**
+JavaScript • Git/GitHub • HTML5/CSS3
 
-**Learning**  
-Playwright • Postman • Git/GitHub
-
-**Coursework**  
-Selenium
+**Focus & Automation**
+Playwright • Postman (API Testing)
 
 ---
 
@@ -46,7 +43,7 @@ Technical Degree in Information Technology @ ETEC Lauro Gomes
 ---
 
 ## ୨ৎ Open to
-QA Analyst • Enterprise Web QA • Localization QA • QA Automationion
+QA Analyst • Enterprise Web QA • Localization QA • QA Automation
 
 ---
 
